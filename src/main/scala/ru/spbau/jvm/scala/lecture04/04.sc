@@ -21,7 +21,6 @@ function3("")(5)
 // immutable.List[Bar] <: immutable.List[Foo]
 
 42 :: 42 :: 5 :: Nil
-
 val ints: List[Any] = Nil.::(5)
   .::("")
   .::(42)
